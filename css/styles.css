@@ -129,7 +129,6 @@ a{
     line-height: 1.07;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 188px;
     margin-bottom: 48px;
     max-width: 496px;
 }
@@ -138,7 +137,6 @@ a{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 188px;
     padding: 16px 32px;
     min-width: 169px;
     min-height: 56px;
@@ -192,7 +190,7 @@ color: #fff;
 }
 
 .second-content{
-    padding: 120px 0;
+    /* padding: 120px; */
 }
 
 .second-list{
@@ -215,7 +213,7 @@ color: #fff;
 .third-content{
     background-color: #F4F4FD;
     min-height: 732px;
-    padding: 120px 0;
+    /* padding: 120px 0; */
 }
 
 .third-subject{
@@ -262,7 +260,7 @@ color: #fff;
 }
 
 .fourth-content{
-    padding: 120px 0 120px 0;
+    /* padding: 120px 0 120px 0; */
 }
 
 .fourth-subject{
@@ -295,7 +293,7 @@ color: #fff;
 
 footer{
     background-color: #2e2f42;
-    padding: 100px 0;
+    /* padding: 100px 0; */
 }
 
 .footer-logo .logo-part{
