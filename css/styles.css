@@ -196,7 +196,7 @@ color: #fff;
 
 .second-list{
     display: flex;
-    padding-bottom: 120px;
+    /* padding-bottom: 120px; */
     margin-left: auto;
     margin-right: auto;
     gap: 24px;
@@ -217,8 +217,8 @@ color: #fff;
 }
 
 .third-subject{
-    padding-top: 120px;
-    padding-bottom: 72px;
+    /* padding-top: 120px; */
+    /* padding-bottom: 72px; */
 }
 
 .third-list{
@@ -265,7 +265,7 @@ color: #fff;
 }
 
 .fourth-subject{
-    padding-top: 120px;
+    /* padding-top: 120px;s */
     padding-bottom: 72px;
 }
 
