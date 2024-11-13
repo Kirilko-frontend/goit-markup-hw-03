@@ -137,6 +137,7 @@ a{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 188px;
     padding: 16px 32px;
     min-width: 169px;
     min-height: 56px;
@@ -190,12 +191,11 @@ color: #fff;
 }
 
 .second-content{
-    /* padding: 120px; */
+    padding: 120px 0;
 }
 
 .second-list{
     display: flex;
-    padding-top: 120px;
     padding-bottom: 120px;
     margin-left: auto;
     margin-right: auto;
@@ -213,11 +213,12 @@ color: #fff;
 .third-content{
     background-color: #F4F4FD;
     min-height: 732px;
-    /* padding: 120px 0; */
+    padding: 120px 0;
 }
 
 .third-subject{
-    margin-bottom: 72px;
+    padding-top: 120px;
+    padding-bottom: 72px;
 }
 
 .third-list{
@@ -260,11 +261,12 @@ color: #fff;
 }
 
 .fourth-content{
-    /* padding: 120px 0 120px 0; */
+    padding: 120px 0 120px 0;
 }
 
 .fourth-subject{
-    margin-bottom: 72px;
+    padding-top: 120px;
+    padding-bottom: 72px;
 }
 
 .portfolio-list{
@@ -272,7 +274,7 @@ color: #fff;
     row-gap: 48px;
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 120px;
+    padding-bottom: 120px;
 }
 
 .portfolio-items{
@@ -293,7 +295,7 @@ color: #fff;
 
 footer{
     background-color: #2e2f42;
-    /* padding: 100px 0; */
+    padding: 100px 0;
 }
 
 .footer-logo .logo-part{
