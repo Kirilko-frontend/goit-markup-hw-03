@@ -224,8 +224,6 @@ color: #fff;
 .third-list{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    margin: 72px 0 120px auto;
     gap: 24px;
 }
 
